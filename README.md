@@ -26,14 +26,14 @@ pip install hashcheck
 
 ### github
 ```bash
-git clone https://github.com/yourusername/hashcheck.git
+git clone https://github.com/purposefulman/hashcheck.git
 cd hashcheck
 sudo make install
 ```
 
 ### cmd
 ```bash
-curl -sSL https://raw.githubusercontent.com/yourusername/hashcheck/main/scripts/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/purposefulman/hashcheck/main/scripts/install.sh | bash
 ```
 
 ## 📖 Использование
@@ -128,6 +128,6 @@ fi
 Распространяется под лицензией MIT. Смотрите файл LICENSE для подробностей.
 
 ## 📞 Контакты
-GitHub Issues: https://github.com/yourusername/hashcheck/issues
+GitHub Issues: https://github.com/purposefulman/hashcheck/issues
 
 Email: viktor_freelance@proton.me
