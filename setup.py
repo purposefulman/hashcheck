@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name="hashcheck",
+    name="hashcheck-tool",
     version="1.0.0",
     author="Viktor Tsedrik",
     author_email="viktor_freelance@proton.me",
