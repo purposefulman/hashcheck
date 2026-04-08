@@ -21,7 +21,7 @@
 
 ### python
 ``` bash
-pip install hashcheck
+pip install hashcheck-tool
 ```
 
 ### github
